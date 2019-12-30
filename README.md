@@ -9,7 +9,6 @@ Below are some sample views of the application:
 - **Image-2 :** Color coded accident densities for a specific year and a specific state are displayed on the map of India.The corresponding pie chart changes dynamically with the changes in year value and Indian state names. The ***blue slider*** is used to toggle the year value from 2001-2014. 
 
 - **Image-3 :** One of the different types of avaliable scatter plots and bar charts.
-
 <img src="https://user-images.githubusercontent.com/22832487/69235762-27552180-0bb8-11ea-85ac-8f2d9c815091.png" width="400" height="310">   <img src="https://user-images.githubusercontent.com/22832487/69235769-27552180-0bb8-11ea-8917-b71865708201.png" width="465" height="310">
 
                         (Image-1)                                                (Image-2)
