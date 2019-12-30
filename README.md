@@ -4,7 +4,7 @@ An interactive GUI application that displays the accident data in a comprehensiv
 
 Below are some sample views of the application:
 
-- **Image-1 :** User is given the choice of selecting the type of plot(Pie chart, Scatter plot and Bar chart) along with the month name and  accident type for a specified Indian state.
+- **Image-1 :** User is given the choice of selecting the type of plot(Pie Chart, Scatter Plot or Bar Chart) along with the month name and  accident type for a specified Indian state.
 
 - **Image-2 :** Color coded accident densities for a specific year and a specific state are displayed on the map of India.The corresponding pie chart changes dynamically with the changes in year value and Indian state names. The ***blue slider*** is used to toggle the year value from 2001-2014. 
 
